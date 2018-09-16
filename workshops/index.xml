@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/workshops/</link>
+    <description>Recent content in Workshops on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://redhatgov.io/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Tower Workshop</title>
+      <link>http://redhatgov.io/workshops/ansible_tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/ansible_tower/</guid>
+      <description>Description Build playbooks to build in security, empower junior staff and offload senior staff, and automate your most tedious tasks!
+   What you will learn   Running ad-hoc commands
+  Writing a playbook
+  Install and configure Ansible Tower
+  Templates and Security.
+     Overview Today is meant for anyone who has any exposure to Ansible, whether you have used it or not.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Tower Workshop on Azure</title>
+      <link>http://redhatgov.io/workshops/ansible_tower_azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/ansible_tower_azure/</guid>
+      <description>Description Build playbooks to build in security, empower junior staff and offload senior staff, and automate your most tedious tasks!
+   What you will learn   Running ad-hoc commands
+  Writing a playbook
+  Install and configure Ansible Tower
+  Templates and Security.
+     Overview Today is meant for anyone who has any exposure to Ansible, whether you have used it or not.</description>
+    </item>
+    
+    <item>
+      <title>CloudForms Workshops</title>
+      <link>http://redhatgov.io/workshops/cloudforms41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/cloudforms41/</guid>
+      <description>CloudForms Workshop Description Manage the hybrid environment, on prem and commercial cloud providers to include: Quota management, auditing, Continuous discovery and tracking.
+Who should attend  Architects Developers Technical leads Operations Engineers  What you will learn  Resource usage, optimization, and capacity planning. Cloud and container fundamentals. Configuration auditing, change tracking, and drift analysis. Continuous discovery, monitoring, and tracking.  Lab Overview  Learn the basics of a CloudForms environment.</description>
+    </item>
+    
+    <item>
+      <title>Container Security Workshop</title>
+      <link>http://redhatgov.io/workshops/security_containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/security_containers/</guid>
+      <description>Description Learn how to scan, secure and leverage properties in the Linux kernel like seccomp, namespaces, ccgroups to secure your docker containers.
+   Who should attend   People familiar with containers that have had Containers 101
+  Architects
+  Developers
+  Technical leads
+  Operations Engineers
+     What you will learn   Cockpit
+  CGroups
+  Namespaces</description>
+    </item>
+    
+    <item>
+      <title>Containers 101 Workshop</title>
+      <link>http://redhatgov.io/workshops/containers_101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/containers_101/</guid>
+      <description>Description Come and build a container! This workshop will introduce you to Linux containers. During the course of this workshop you will gain a foundational container hands-on training.
+   What you will learn   Install docker, buildah, podman, and skopeo
+  Run an existing container image
+  Build a new container from a base container image
+  Push the new container image to a container registry</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop - Secure Software Factory</title>
+      <link>http://redhatgov.io/workshops/secure_software_factory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/secure_software_factory/</guid>
+      <description> Description In this workshop, you&#39;ll be building a Secure Software Factory for a Java based website leveraging several containerized tools such as Gogs, Nexus, Jenkins, Sonarqube, and Che hosted on the OpenShift Container Platform
+Who Should Attend  Anyone who has had OpenShift 101 Architects Developers Technical leads Operations Engineers  What you will learn  A tiny bit of Jenkins Automating the development process Trusted Software Supply Chain  Agenda  Introductions and Agenda Familiarization with the Environment Setting the Context  Labs   Verify Prerequisites     Login Tour - Wetty     Lab 01 - Welcome to OpenShift     Lab 02 - Trusted Software Supply Chain     Lab 03 - CI/CD Project and Pods     Lab 04 - Jenkins and OpenShift     Lab 05 - Creating Your Pipeline     Lab 06 - Build App Stage     Lab 07 - Test Stage     Lab 08 - Static Application Security Testing     Lab 09 - Archive App     Lab 10 - Create Image Builder     Lab 11 - Build Image     Lab 12 - Create Dev     Lab 13 - Deploy Dev     Lab 14 - Promote to Stage     Lab 15 - Deploy Stage     Lab 16 - Run Pipeline     Lab 17 - Trigger the Software Supply Chain     Fin   </description>
+    </item>
+    
+    <item>
+      <title>Example Workshop</title>
+      <link>http://redhatgov.io/workshops/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/example/</guid>
+      <description>Introduction This is an example workshop to showcase what is possible when building workshops. You can find examples of how to organize your content, what shortcodes are available, and the widgets available as a part of the redhatgov theme.
+ This workshop is also expected to be used as a starting point for any new workshop.
+Pay special attention to the lab on how to copy this workshop and what changes are required to make your workshop show up in the menus.</description>
+    </item>
+    
+    <item>
+      <title>JBoss Data Virtualization Development</title>
+      <link>http://redhatgov.io/workshops/jdv_dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/jdv_dev/</guid>
+      <description>Who should attend  Developers People who are comfortable using the command line People with knowledge of SQL People who can work with Virtual Machines or Docker People who understand REST services and JSON  What you will create  Brand new JBoss Data Virtualization install JBoss Developer Studio development environment Consume, compose and create REST data services from several data sources Apply role based security and column masking to the create REST data services An AngularJS based web application to consume and view the REST data services  Your end product You will walk away from this workshop with a basic end to end JBoss Data Virtualization environment.</description>
+    </item>
+    
+    <item>
+      <title>Microservices Workshop - Strangling the Monolith</title>
+      <link>http://redhatgov.io/workshops/strangling_the_monolith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/strangling_the_monolith/</guid>
+      <description>Microservices Workshop - Strangling the Monolith Description Large organizations have a tremendous amount of resources invested in existing monolithic applications, in the workshop you will learn a sane way to capture the benefits of containers and orchestration without having to execute a complete rewrite.
+Who should attend  Anyone who has had Containers 101 Architects Developers Technical leads -Operations Engineers  What you will learn Tour of Openshift Strangling your Monolith Microservice Integration Patterns</description>
+    </item>
+    
+    <item>
+      <title>OpenShift 101 - DC Metro Map Workshop</title>
+      <link>http://redhatgov.io/workshops/openshift_101_dcmetromap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/openshift_101_dcmetromap/</guid>
+      <description>OpenShift 101 - DC Metro Map Workshop Description This workshop will have you deploying and creating native docker images for a Node.js based website and learning to leverage the power of OpenShift to build, deploy, scale, and automate.
+Who should attend  Anyone who has had any exposure to Containers Architects Developers Technical leads Operations Engineers  What you will learn  S21 Rollback Replication and Recovery Using Labels CI/CD pipeline Blue/Green Deployment  Introduction Welcome to the workshop!</description>
+    </item>
+    
+    <item>
+      <title>OpenShift Install</title>
+      <link>http://redhatgov.io/workshops/openshift_install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/openshift_install/</guid>
+      <description>Description This workshop will walk you through installing an OpenShift cluster and verifying that the components that make up OpenShift are deployed successfully.
+Who should attend  Operations Engineers  What you will learn  OpenShift prerequisites Configuring docker storage Generating inventory file for the advanced installation Configuring aggregated logging Configuring metrics Defining persistent storage for the registry, metrics, and aggregated logging Role-based access control (RBAC) Deploying a sample application  Introduction This workshop is broken up into multiple labs that walk through related tasks required for installing OpenShift Container Platform.</description>
+    </item>
+    
+    <item>
+      <title>OpenShift Security Workshop</title>
+      <link>http://redhatgov.io/workshops/security_openshift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/security_openshift/</guid>
+      <description>Description Learn about secrets and how to Secure your microservices and containers by using and extending Linux scanning features, SCC, Seccomp and the security API.
+   Who should attend   Anyone who has had any exposure to Containers
+  Architects
+  Developers
+  Technical leads
+  Operations Engineers
+     What you will learn   SELinux
+  Openshift deployment</description>
+    </item>
+    
+    <item>
+      <title>Red Hat OpenStack Platform 101</title>
+      <link>http://redhatgov.io/workshops/rhosp_101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/rhosp_101/</guid>
+      <description>Red Hat OpenStack Platform 101 Description During this workshop, you get your first taste of using and operating a Red Hat OpenStack Platform cloud. After the workshop, you will have hands on experience working with software defined networking, software defined storage, managing security groups and using heat to define application stacks.
+Who should attend  System Administrators Architects Developers Technical leads Operations Engineers  What you will learn  Working in the OpenStack Dashboard and CLI Managing Neutron Networks and Floating IPs Managing Security Groups, Images and Instances Using Heat for Orchestration Using Software defined block and object Storage  Introduction This workshop on Red Hat OpenStack Platform is designed as an introduction for those who are intending to implement a cloud computing environment using OpenStack.</description>
+    </item>
+    
+    <item>
+      <title>Source to Image</title>
+      <link>http://redhatgov.io/workshops/source_to_image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/workshops/source_to_image/</guid>
+      <description>Source-to-Image - Accelerating Application Development Description Containers have transformed the IT space by leaps and bounds. Source-to-image allows developers to take advantage of containers and truly focus on their code. S2I also allows infrastructure managers to standardize both the development and deployment environments. This starts you on a path towards a high-speed, high-efficiency DevOps organization
+Who Should Attend  Anyone who has had Containers 101 Architects Developers Technical leads Operations Engineers  What you will learn  A tiny bit of Golang How to install S2I tooling How to use S2I to deploy apps with cutom frameworks  Agenda  Arrivals Introductions and Agenda Familiarization with the Environment Setting the Context Build a Container Image Create a Custom S2I Builder Create an OCP Template  Labs   Prerequisites     The Setup     Lab - Run the App     Lab - Containerize the App     Lab - Source-to-Image     Lab - Gochat S2I     Lab - Roll Dice     Conclusion    Workshop Details   Domain     Workshop    Student ID     Student ID 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50   Domain redhatgov.</description>
+    </item>
+    
+  </channel>
+</rss>
